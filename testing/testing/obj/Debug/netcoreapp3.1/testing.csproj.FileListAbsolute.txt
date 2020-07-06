@@ -1,0 +1,13 @@
+C:\temp\dadositens\testing\testing\bin\Debug\netcoreapp3.1\testing.exe
+C:\temp\dadositens\testing\testing\bin\Debug\netcoreapp3.1\testing.deps.json
+C:\temp\dadositens\testing\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.json
+C:\temp\dadositens\testing\testing\bin\Debug\netcoreapp3.1\testing.runtimeconfig.dev.json
+C:\temp\dadositens\testing\testing\bin\Debug\netcoreapp3.1\testing.dll
+C:\temp\dadositens\testing\testing\bin\Debug\netcoreapp3.1\testing.pdb
+C:\temp\dadositens\testing\testing\obj\Debug\netcoreapp3.1\testing.csprojAssemblyReference.cache
+C:\temp\dadositens\testing\testing\obj\Debug\netcoreapp3.1\testing.csproj.CoreCompileInputs.cache
+C:\temp\dadositens\testing\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfoInputs.cache
+C:\temp\dadositens\testing\testing\obj\Debug\netcoreapp3.1\testing.AssemblyInfo.cs
+C:\temp\dadositens\testing\testing\obj\Debug\netcoreapp3.1\testing.dll
+C:\temp\dadositens\testing\testing\obj\Debug\netcoreapp3.1\testing.pdb
+C:\temp\dadositens\testing\testing\obj\Debug\netcoreapp3.1\testing.genruntimeconfig.cache
